@@ -4,7 +4,7 @@ import joblib
 
 st.set_page_config(page_title="Marvellous Sysytem Dashborad")
 
-st.title("Marvelloys Infosystem by piyush")
+st.title("Project by sakshi")
 st.header("Customer Churn Prediction")
 st.write("Machine Learning Application Dashboard")
 
